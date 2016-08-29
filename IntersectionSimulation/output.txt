@@ -1,0 +1,161 @@
+---Start of simulation, time set to 0---
+
+---Light changed. Now processing north/south-bound traffic ---
+[Time 03] Vehicle #6 (southbound) continued straight. Total wait time 3.
+[Time 03] Vehicle #1 (southbound) turned right and headed westbound. Total wait time 3.
+[Time 03] Vehicle #4 (northbound) turned right and headed eastbound. Total wait time 3.
+
+---Light changed. Now processing east/west-bound traffic ---
+[Time 09] Vehicle #7 (eastbound) continued straight. Total wait time 9.
+[Time 09] Vehicle #9 (eastbound) turned right and headed southbound. Total wait time 9.
+[Time 09] Vehicle #2 (westbound) continued straight. Total wait time 9.
+[Time 09] Vehicle #3 (westbound) turned right and headed northbound. Total wait time 9.
+[Time 12] Vehicle #8 (eastbound) continued straight. Total wait time 12.
+[Time 12] Vehicle #13 (eastbound) turned right and headed southbound. Total wait time 6.
+[Time 12] Vehicle #17 (westbound) continued straight. Total wait time 6.
+[Time 12] Vehicle #5 (westbound) turned right and headed northbound. Total wait time 12.
+[Time 15] Vehicle #15 (eastbound) continued straight. Total wait time 9.
+[Time 15] Vehicle #19 (westbound) turned right and headed northbound. Total wait time 9.
+
+---Light changed. Now processing north/south-bound traffic ---
+[Time 18] Vehicle #14 (southbound) continued straight. Total wait time 12.
+[Time 18] Vehicle #10 (southbound) turned right and headed westbound. Total wait time 12.
+[Time 18] Vehicle #11 (northbound) continued straight. Total wait time 12.
+[Time 18] Vehicle #12 (northbound) turned right and headed eastbound. Total wait time 12.
+[Time 21] Vehicle #16 (southbound) continued straight. Total wait time 15.
+[Time 21] Vehicle #23 (northbound) continued straight. Total wait time 6.
+[Time 21] Vehicle #18 (northbound) turned right and headed eastbound. Total wait time 15.
+
+---Light changed. Now processing east/west-bound traffic ---
+[Time 24] Vehicle #34 (eastbound) turned right and headed southbound. Total wait time 3.
+[Time 24] Vehicle #20 (westbound) continued straight. Total wait time 9.
+[Time 24] Vehicle #30 (westbound) turned right and headed northbound. Total wait time 3.
+[Time 27] Vehicle #24 (westbound) continued straight. Total wait time 12.
+[Time 30] Vehicle #27 (westbound) continued straight. Total wait time 15.
+
+---Light changed. Now processing north/south-bound traffic ---
+[Time 33] Vehicle #21 (southbound) continued straight. Total wait time 18.
+[Time 33] Vehicle #29 (southbound) turned right and headed westbound. Total wait time 12.
+[Time 33] Vehicle #32 (northbound) continued straight. Total wait time 12.
+[Time 33] Vehicle #26 (northbound) turned right and headed eastbound. Total wait time 18.
+[Time 36] Vehicle #22 (southbound) continued straight. Total wait time 21.
+[Time 36] Vehicle #36 (southbound) turned right and headed westbound. Total wait time 15.
+[Time 36] Vehicle #33 (northbound) continued straight. Total wait time 15.
+[Time 36] Vehicle #35 (northbound) turned right and headed eastbound. Total wait time 15.
+
+---Light changed. Now processing east/west-bound traffic ---
+[Time 39] Vehicle #38 (eastbound) continued straight. Total wait time 9.
+[Time 39] Vehicle #41 (eastbound) turned right and headed southbound. Total wait time 3.
+[Time 39] Vehicle #28 (westbound) continued straight. Total wait time 18.
+[Time 39] Vehicle #43 (westbound) turned right and headed northbound. Total wait time 3.
+[Time 42] Vehicle #51 (eastbound) turned right and headed southbound. Total wait time 6.
+[Time 42] Vehicle #53 (westbound) continued straight. Total wait time 6.
+[Time 42] Vehicle #44 (westbound) turned right and headed northbound. Total wait time 6.
+[Time 45] Vehicle #52 (eastbound) turned right and headed southbound. Total wait time 9.
+[Time 45] Vehicle #50 (westbound) turned right and headed northbound. Total wait time 9.
+
+---Light changed. Now processing north/south-bound traffic ---
+[Time 48] Vehicle #25 (southbound) continued straight. Total wait time 33.
+[Time 48] Vehicle #39 (southbound) turned right and headed westbound. Total wait time 18.
+[Time 48] Vehicle #42 (northbound) continued straight. Total wait time 12.
+[Time 48] Vehicle #47 (northbound) turned right and headed eastbound. Total wait time 12.
+[Time 51] Vehicle #31 (southbound) continued straight. Total wait time 30.
+[Time 51] Vehicle #40 (southbound) turned right and headed westbound. Total wait time 21.
+[Time 51] Vehicle #45 (northbound) continued straight. Total wait time 15.
+[Time 51] Vehicle #48 (northbound) turned right and headed eastbound. Total wait time 15.
+
+---Light changed. Now processing east/west-bound traffic ---
+[Time 54] Vehicle #54 (eastbound) continued straight. Total wait time 9.
+[Time 54] Vehicle #57 (eastbound) turned right and headed southbound. Total wait time 9.
+[Time 54] Vehicle #56 (westbound) continued straight. Total wait time 9.
+[Time 54] Vehicle #55 (westbound) turned right and headed northbound. Total wait time 9.
+[Time 57] Vehicle #71 (eastbound) continued straight. Total wait time 6.
+[Time 57] Vehicle #59 (eastbound) turned right and headed southbound. Total wait time 12.
+[Time 57] Vehicle #60 (westbound) continued straight. Total wait time 12.
+[Time 60] Vehicle #73 (eastbound) continued straight. Total wait time 9.
+[Time 60] Vehicle #66 (eastbound) turned right and headed southbound. Total wait time 9.
+[Time 60] Vehicle #64 (westbound) continued straight. Total wait time 9.
+
+---Light changed. Now processing north/south-bound traffic ---
+[Time 63] Vehicle #37 (southbound) continued straight. Total wait time 42.
+[Time 63] Vehicle #63 (southbound) turned right and headed westbound. Total wait time 12.
+[Time 63] Vehicle #70 (northbound) continued straight. Total wait time 12.
+[Time 63] Vehicle #49 (northbound) turned right and headed eastbound. Total wait time 27.
+[Time 66] Vehicle #46 (southbound) continued straight. Total wait time 30.
+[Time 66] Vehicle #65 (southbound) turned right and headed westbound. Total wait time 15.
+[Time 66] Vehicle #80 (northbound) continued straight. Total wait time 6.
+[Time 66] Vehicle #69 (northbound) turned right and headed eastbound. Total wait time 15.
+
+---Light changed. Now processing east/west-bound traffic ---
+[Time 69] Vehicle #75 (eastbound) continued straight. Total wait time 18.
+[Time 69] Vehicle #67 (eastbound) turned right and headed southbound. Total wait time 18.
+[Time 69] Vehicle #76 (westbound) continued straight. Total wait time 18.
+[Time 69] Vehicle #82 (westbound) turned right and headed northbound. Total wait time 9.
+[Time 72] Vehicle #77 (eastbound) continued straight. Total wait time 12.
+[Time 72] Vehicle #84 (eastbound) turned right and headed southbound. Total wait time 12.
+[Time 72] Vehicle #87 (westbound) continued straight. Total wait time 6.
+[Time 75] Vehicle #78 (eastbound) continued straight. Total wait time 15.
+[Time 75] Vehicle #90 (eastbound) turned right and headed southbound. Total wait time 9.
+
+---Light changed. Now processing north/south-bound traffic ---
+[Time 78] Vehicle #58 (southbound) continued straight. Total wait time 33.
+[Time 78] Vehicle #68 (southbound) turned right and headed westbound. Total wait time 27.
+[Time 78] Vehicle #94 (northbound) continued straight. Total wait time 12.
+[Time 78] Vehicle #72 (northbound) turned right and headed eastbound. Total wait time 27.
+[Time 81] Vehicle #61 (southbound) continued straight. Total wait time 36.
+[Time 81] Vehicle #74 (southbound) turned right and headed westbound. Total wait time 30.
+[Time 81] Vehicle #100 (northbound) continued straight. Total wait time 6.
+[Time 81] Vehicle #79 (northbound) turned right and headed eastbound. Total wait time 21.
+
+---Light changed. Now processing east/west-bound traffic ---
+[Time 84] Vehicle #81 (eastbound) continued straight. Total wait time 24.
+[Time 84] Vehicle #93 (eastbound) turned right and headed southbound. Total wait time 18.
+[Time 84] Vehicle #98 (westbound) continued straight. Total wait time 9.
+[Time 84] Vehicle #97 (westbound) turned right and headed northbound. Total wait time 9.
+[Time 87] Vehicle #83 (eastbound) continued straight. Total wait time 27.
+[Time 87] Vehicle #103 (eastbound) turned right and headed southbound. Total wait time 12.
+[Time 87] Vehicle #101 (westbound) continued straight. Total wait time 12.
+[Time 87] Vehicle #107 (westbound) turned right and headed northbound. Total wait time 6.
+[Time 90] Vehicle #86 (eastbound) continued straight. Total wait time 24.
+[Time 90] Vehicle #106 (eastbound) turned right and headed southbound. Total wait time 9.
+[Time 90] Vehicle #102 (westbound) continued straight. Total wait time 15.
+[Time 90] Vehicle #114 (westbound) turned right and headed northbound. Total wait time 9.
+
+---Light changed. Now processing north/south-bound traffic ---
+[Time 93] Vehicle #62 (southbound) continued straight. Total wait time 48.
+[Time 93] Vehicle #85 (southbound) turned right and headed westbound. Total wait time 33.
+[Time 93] Vehicle #104 (northbound) continued straight. Total wait time 18.
+[Time 93] Vehicle #110 (northbound) turned right and headed eastbound. Total wait time 12.
+[Time 96] Vehicle #88 (southbound) continued straight. Total wait time 30.
+[Time 96] Vehicle #89 (southbound) turned right and headed westbound. Total wait time 30.
+[Time 96] Vehicle #112 (northbound) turned right and headed eastbound. Total wait time 15.
+
+---Light changed. Now processing east/west-bound traffic ---
+[Time 99] Vehicle #91 (eastbound) continued straight. Total wait time 33.
+[Time 99] Vehicle #108 (eastbound) turned right and headed southbound. Total wait time 18.
+[Time 99] Vehicle #105 (westbound) continued straight. Total wait time 24.
+[Time 99] Vehicle #116 (westbound) turned right and headed northbound. Total wait time 18.
+[Time 102] Vehicle #96 (eastbound) continued straight. Total wait time 36.
+[Time 102] Vehicle #118 (eastbound) turned right and headed southbound. Total wait time 12.
+
+---Light changed. Now processing north/south-bound traffic ---
+[Time 108] Vehicle #92 (southbound) continued straight. Total wait time 42.
+[Time 108] Vehicle #99 (southbound) turned right and headed westbound. Total wait time 33.
+[Time 108] Vehicle #113 (northbound) turned right and headed eastbound. Total wait time 27.
+[Time 111] Vehicle #95 (southbound) continued straight. Total wait time 45.
+[Time 111] Vehicle #109 (southbound) turned right and headed westbound. Total wait time 30.
+[Time 111] Vehicle #120 (northbound) turned right and headed eastbound. Total wait time 21.
+
+---Light changed. Now processing east/west-bound traffic ---
+
+---Light changed. Now processing north/south-bound traffic ---
+[Time 123] Vehicle #111 (southbound) continued straight. Total wait time 42.
+[Time 123] Vehicle #117 (southbound) turned right and headed westbound. Total wait time 42.
+[Time 126] Vehicle #115 (southbound) continued straight. Total wait time 45.
+
+---Light changed. Now processing east/west-bound traffic ---
+
+---Light changed. Now processing north/south-bound traffic ---
+[Time 138] Vehicle #119 (southbound) continued straight. Total wait time 48.
+
+---Light changed. Now processing east/west-bound traffic ---
